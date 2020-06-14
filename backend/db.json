@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": "24.89"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "125000.09"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": "50000"
+    },
+    {
+      "name": "IPhone X",
+      "price": "90420.56",
+      "id": 4
+    },
+    {
+      "name": "Arroz branco",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Biquini femenino",
+      "price": "1500",
+      "id": 6
+    }
+  ]
+}
